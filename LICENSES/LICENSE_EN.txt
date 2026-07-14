@@ -1,0 +1,63 @@
+LICENSE FOR USING THE PROJECT "WaAFRU"
+Version 2.1, 2026
+
+----------------------------------------------------
+SECTION I – RIGHTS TO THE PROJECT CODE
+----------------------------------------------------
+1.1. The source code of the project (.py, .js, .html, .css and other scripts created by the author) belongs to the project developer.
+
+1.2. This code may be freely:
+- used for personal and commercial purposes,
+- copied, modified, extended,
+- combined with other projects,
+- published, distributed, sublicensed or sold.
+
+1.3. Advertising, promotion and mentioning of the project in any materials is permitted without restrictions.
+
+1.4. When distributing modified versions of the code, it is desirable, but not required, to include a link to the original repository or the author's name.
+
+----------------------------------------------------
+SECTION II – RIGHTS TO THIRD‑PARTY CONTENT
+----------------------------------------------------
+2.1. The project displays information obtained from external sources, including:
+- weather data, forecasts, maps,
+- trademarks, logos, corporate identity,
+- images, icons, fonts,
+- any other materials not created by the project author.
+
+2.2. All such materials are the intellectual property of their respective owners, in particular:
+- LLC "Yandex" (Yandex.Weather data, logo, design),
+- Roshydromet, NOAA and other meteorological services (source data),
+- other right holders whose materials are used on the website pages.
+
+2.3. The project does not claim ownership of these materials and makes no claim to them. The project is merely a software interface for convenient viewing of publicly available information.
+
+2.4. The project is not affiliated with Yandex, is not its official product and is not supported by it.
+
+2.5. The project author is not responsible for the accuracy, timeliness or legality of the use of the displayed data – the user bears full responsibility for their use.
+
+----------------------------------------------------
+SECTION III – DISCLAIMER OF WARRANTY
+----------------------------------------------------
+3.1. The project is distributed "AS IS" without any warranties.
+
+3.2. The project author shall not be liable for:
+- any direct, indirect, incidental or other damages arising from the use of the project;
+- inability to use the project;
+- infringement of third‑party rights that may arise from the use of third‑party content (the user is solely responsible for compliance with applicable law).
+
+----------------------------------------------------
+SECTION IV – ACCEPTANCE OF TERMS
+----------------------------------------------------
+Using, copying, distributing or modifying the project constitutes full and unconditional acceptance of this license.
+
+----------------------------------------------------
+SHORT VERSION
+----------------------------------------------------
+Copyright on the project code belongs to the developer.
+The code may be freely used, modified, distributed and advertised.
+
+Weather data, logos and design belong to their respective owners (Yandex, Roshydromet, etc.).
+The project is not affiliated with Yandex and is not an official product.
+
+The project is provided "AS IS" – the author is not liable for any consequences of its use.
